@@ -1,0 +1,13 @@
+.rodape{
+    height: 50px;
+    background-color: #FFFBEF;
+    box-shadow: 0px -3px 15px #bbb;
+    margin-top: 20px;
+  }
+
+.rodape p{
+  text-align: center;
+  line-height: 50px;
+  font-family: var(--subTitulo);
+  font-weight: bold;
+}

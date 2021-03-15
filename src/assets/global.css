@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --titulo:'Bilbo Swash Caps', cursive;
+    --texto:'Open Sans', sans-serif; 
+    --subTitulo: 'Open Sans Condensed', sans-serif;
+    --corTexto: #101010;
+    --corSubTitulo:#5D0612;
+    --corHover:#F9AE49;
+    --background: #FFFBEF;
+    --background2: #FFFDF8;
+}

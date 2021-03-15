@@ -1,0 +1,31 @@
+.container{
+    display: grid;
+    grid-template-rows: 80px 455px;
+    font-family: var(--texto);
+  }
+.header{
+    height: 30px;
+    margin-bottom: -450px ;
+    vertical-align: inherit;
+    color: #5D0612;
+  }
+  .header > h3{
+      text-align: center;
+      line-height: 30px;
+      font-size: 36px;
+      font-family: var(--subTitulo);
+    }
+  .main{
+    
+    display: grid;
+    grid-template-columns: repeat(2, 45%);
+    grid-column-gap: 50px;
+    padding: 0 100px;
+    box-sizing: border-box;
+  }
+
+  .main article p{
+    font-size: 1.2rem;
+    line-height: 26px;
+    font-weight: 600;
+  }

@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://bonsdrinks.netlify.app/static/media/about-pic.f7f9cf74.jpg);
+    background-size: initial;
+    background-position: 0 80%;
+}
+
+.container img{
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 80%;
+    
+}

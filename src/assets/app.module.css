@@ -1,0 +1,6 @@
+.appContainer{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 9fr 1fr;
+    grid-row-gap: 11px;
+}
